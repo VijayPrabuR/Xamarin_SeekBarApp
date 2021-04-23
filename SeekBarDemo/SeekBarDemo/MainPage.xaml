@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SeekBarDemo.MainPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Slider">
+                <Setter Property="Maximum" Value="255" />
+            </Style>
+
+            <Style TargetType="Label">
+                <Setter Property="HorizontalTextAlignment" Value="Center" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout>
+        <BoxView x:Name="boxView"
+                 Color="Black"
+                 VerticalOptions="Start" 
+                 HeightRequest="200"/>
+
+        <Slider x:Name="redSeekBar"
+                Margin="30"
+                ValueChanged="OnSeekBarChanged" />
+
+        <Label x:Name="redText" />
+
+        <Slider x:Name="greenSeekBar"
+                Margin="30"
+                ValueChanged="OnSeekBarChanged" />
+
+        <Label x:Name="greenText" />
+
+        <Slider x:Name="blueSeekBar"
+                Margin="30"
+                ValueChanged="OnSeekBarChanged" />
+
+        <Label x:Name="blueText" />
+    </StackLayout>
+
+</ContentPage>
