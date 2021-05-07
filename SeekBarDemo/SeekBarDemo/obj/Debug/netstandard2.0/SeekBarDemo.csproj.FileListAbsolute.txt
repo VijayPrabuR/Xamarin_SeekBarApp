@@ -1,0 +1,14 @@
+C:\Users\Vijay Prabhu\source\repos\SeekBarDemo\SeekBarDemo\SeekBarDemo\bin\Debug\netstandard2.0\SeekBarDemo.deps.json
+C:\Users\Vijay Prabhu\source\repos\SeekBarDemo\SeekBarDemo\SeekBarDemo\bin\Debug\netstandard2.0\SeekBarDemo.dll
+C:\Users\Vijay Prabhu\source\repos\SeekBarDemo\SeekBarDemo\SeekBarDemo\bin\Debug\netstandard2.0\ref\SeekBarDemo.dll
+C:\Users\Vijay Prabhu\source\repos\SeekBarDemo\SeekBarDemo\SeekBarDemo\bin\Debug\netstandard2.0\SeekBarDemo.pdb
+C:\Users\Vijay Prabhu\source\repos\SeekBarDemo\SeekBarDemo\SeekBarDemo\obj\Debug\netstandard2.0\SeekBarDemo.csprojAssemblyReference.cache
+C:\Users\Vijay Prabhu\source\repos\SeekBarDemo\SeekBarDemo\SeekBarDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Vijay Prabhu\source\repos\SeekBarDemo\SeekBarDemo\SeekBarDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Vijay Prabhu\source\repos\SeekBarDemo\SeekBarDemo\SeekBarDemo\obj\Debug\netstandard2.0\SeekBarDemo.AssemblyInfoInputs.cache
+C:\Users\Vijay Prabhu\source\repos\SeekBarDemo\SeekBarDemo\SeekBarDemo\obj\Debug\netstandard2.0\SeekBarDemo.AssemblyInfo.cs
+C:\Users\Vijay Prabhu\source\repos\SeekBarDemo\SeekBarDemo\SeekBarDemo\obj\Debug\netstandard2.0\SeekBarDemo.csproj.CoreCompileInputs.cache
+C:\Users\Vijay Prabhu\source\repos\SeekBarDemo\SeekBarDemo\SeekBarDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Vijay Prabhu\source\repos\SeekBarDemo\SeekBarDemo\SeekBarDemo\obj\Debug\netstandard2.0\SeekBarDemo.dll
+C:\Users\Vijay Prabhu\source\repos\SeekBarDemo\SeekBarDemo\SeekBarDemo\obj\Debug\netstandard2.0\ref\SeekBarDemo.dll
+C:\Users\Vijay Prabhu\source\repos\SeekBarDemo\SeekBarDemo\SeekBarDemo\obj\Debug\netstandard2.0\SeekBarDemo.pdb
